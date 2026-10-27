@@ -1,0 +1,5 @@
+matplotlib
+pytest
+# only needed to rebuild data/words_fr.tsv from Lexique:
+pandas
+pyxlsb
