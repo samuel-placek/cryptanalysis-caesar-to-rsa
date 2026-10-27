@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.xlsb
+*.pkl
+figures_quick/
+results_quick/
